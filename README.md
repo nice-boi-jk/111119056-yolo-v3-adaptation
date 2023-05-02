@@ -4,4 +4,4 @@ This repo contains code implementation of the YOLO V3 architecture adapted from 
 The model was trained in the PASCAL VOC dataset.
 Refer to config.py for hyperparameters.
 
-Trained weights can be found in this Kaggle Link.
+Trained weights can be found in this [Kaggle Link](https://www.kaggle.com/datasets/jaikesavkr/111119056-yolo-v3-trained-weights).
